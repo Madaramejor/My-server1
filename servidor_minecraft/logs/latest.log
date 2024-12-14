@@ -249,3 +249,6 @@
 [14:24:59] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
 [14:24:59] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
 [14:25:20] [Server thread/INFO]: Could not op DanoPeluchoMv2
+[14:27:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@3826c2e[id=<null>,name=DanoPeluchoMcv2,properties={},legacy=false] (/127.130.172.61:39327) lost connection: Disconnected
+[14:27:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@680f6d17[id=<null>,name=DanoPeluchoMcv2,properties={},legacy=false] (/127.130.172.61:38281) lost connection: Disconnected
+[14:27:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a680d43[id=<null>,name=DanoPeluchoMcv2,properties={},legacy=false] (/127.130.172.61:58503) lost connection: Disconnected
